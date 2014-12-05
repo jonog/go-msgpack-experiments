@@ -1,4 +1,4 @@
-## Experiments with msgpack in golang
+## Experiments with msgpack in go
 
 Using the [codec msgpack library](https://github.com/ugorji/go)
 `go get github.com/ugorji/go/codec`
